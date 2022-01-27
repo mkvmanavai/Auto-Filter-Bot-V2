@@ -72,7 +72,7 @@ Thanks to [InfotelGroup](https://telegram.dog/InFoTelGroup) and [Erich Daniken](
 
 ### Deploy to Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?
-template=https://github.com/TroJanzHEX/Auto-Filter-Bot-V2)
+template=https://github.com/mkvmanavai/Auto-Filter-Bot-V2)
 ### Deploy in your vps
 ```sh
 git clone https://github.com/TroJanzHEX/Auto-Filter-Bot-V2
